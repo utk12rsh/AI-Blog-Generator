@@ -1,0 +1,38 @@
+﻿@* ============================================================================
+   File: _BlogResult.cshtml
+   Author: Utkarsh Tripathi
+   Created On: 16-Aug-2025
+   Description: Partial view for displaying the AI-generated blog result.
+                Shows generated content if available, otherwise a warning message.
+   ============================================================================ *@
+
+@model AI_Blog_Generator.Models.BlogRequest
+
+<div class="card">
+    @if (!string.IsNullOrEmpty(Model?.GeneratedBlog))
+    {
+        <!-- Header Section -->
+        <div class="card-header">
+            GENERATED BLOG - @(Model?.Topic?.ToUpper() ?? "NO TOPIC")
+        </div>
+
+        <!-- Body Section -->
+        <div class="card-body">
+            @Html.Raw(Model?.GeneratedBlog)
+        </div>
+
+        <!-- Footer Section -->
+        <div class="card-footer">
+            &copy; 2025 AI BLOG GENERATOR. ALL RIGHTS RESERVED.
+        </div>
+    }
+    else
+    {
+        <!-- Message Box When API Returns No Content -->
+        <div id="loader" class="alert-box" style="width:100%">
+            <p style="letter-spacing:2px; word-spacing:3px; margin:0; font-weight:bold;">
+                ⚠️ NO CONTENT WAS GENERATED! PLEASE TRY AGAIN AFTER FEW MINUTES.
+            </p>
+        </div>
+    }
+</div>

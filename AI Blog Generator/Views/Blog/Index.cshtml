@@ -1,0 +1,78 @@
+﻿@* ========================================================================
+ File: Index.cshtml (or Blog.cshtml)
+ Author: Utkarsh Tripathi
+ Created On: 16-Aug-2025
+ Description: View for AI Blog Generator form. Allows users to input topic,
+              tone, language, and word count to generate a blog using AI.
+ ======================================================================== *@
+
+<div class="container">
+    <!-- Page Heading -->
+    <h2 style="color:#de1f52; letter-spacing: 2px; word-spacing:3px; margin-top:40px;">
+        AI BLOG POST GENERATOR
+    </h2>
+
+    <!-- Blog Generator Form -->
+    <form id="blogForm" action="/Blog/GenerateBlog" method="post" novalidate>
+
+        <!-- Topic Input -->
+        <div>
+            <label for="topic">TOPIC</label>
+            <input type="text"
+                   id="topic"
+                   name="Topic"
+                   placeholder="Enter blog topic"
+                   autocomplete="off" />
+            <span class="text-danger" id="topicError"></span>
+        </div>
+
+        <!-- Tone Dropdown -->
+        <div>
+            <label for="tone">TONE</label>
+            <select id="tone" name="Tone">
+                <option value="">Select Tone</option>
+                <option value="Casual">Casual</option>
+                <option value="Formal">Formal</option>
+                <option value="Humorous">Humorous</option>
+            </select>
+            <span class="text-danger" id="toneError"></span>
+        </div>
+
+        <!-- Language Dropdown -->
+        <div>
+            <label for="language">LANGUAGE</label>
+            <select id="language" name="Language">
+                <option value="">Select Language</option>
+                <option value="English">English</option>
+                <option value="Hindi">Hindi</option>
+            </select>
+            <span class="text-danger" id="languageError"></span>
+        </div>
+
+        <!-- Word Count Input -->
+        <div>
+            <label for="wordCount">WORD COUNT</label>
+            <input type="number"
+                   id="wordCount"
+                   name="WordCount"
+                   min="50"
+                   max="2000"
+                   value="0"
+                   placeholder="e.g., 500" />
+            <span class="text-danger" id="wordCountError"></span>
+        </div>
+
+        <!-- Submit Button -->
+        <button type="submit" id="generate-blog">GENERATE BLOG</button>
+    </form>
+
+    <!-- Loader Message Box -->
+    <div id="loader" class="alert-box">
+        <p style="letter-spacing:2px; word-spacing:3px; margin:0; font-weight:bold;">
+            ✍️ GENERATING YOUR BLOG... PLEASE WAIT.
+        </p>
+    </div>
+</div>
+
+<!-- Blog Result Output -->
+<div id="blog-result"></div>

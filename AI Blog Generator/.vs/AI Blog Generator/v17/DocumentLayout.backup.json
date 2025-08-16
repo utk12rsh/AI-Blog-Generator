@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\views\\shared\\_blogresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:views\\shared\\_blogresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\models\\blogrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:models\\blogrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\customassemblyloader\\customassemblyloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:customassemblyloader\\customassemblyloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|d:\\dot net interview preparation\\ai blog generator\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7F61770-3F22-48CD-92AC-2620C0492E48}|AI Blog Generator.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAALIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-10T08:54:43.722Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Repository\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\BlogRepository.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Repository\\BlogRepository.cs*",
+              "RelativeToolTip": "Repository\\BlogRepository.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:13:00.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-10T09:15:28.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BlogController.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Controllers\\BlogController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:40:39.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_BlogResult.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Views\\Shared\\_BlogResult.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_BlogResult.cshtml",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Views\\Shared\\_BlogResult.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_BlogResult.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T08:51:43.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogRequest.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Models\\BlogRequest.cs",
+              "RelativeDocumentMoniker": "Models\\BlogRequest.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Models\\BlogRequest.cs",
+              "RelativeToolTip": "Models\\BlogRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:39:50.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T08:41:56.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T08:42:30.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomAssemblyLoadContext.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\CustomAssemblyLoader\\CustomAssemblyLoadContext.cs",
+              "RelativeDocumentMoniker": "CustomAssemblyLoader\\CustomAssemblyLoadContext.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\CustomAssemblyLoader\\CustomAssemblyLoadContext.cs",
+              "RelativeToolTip": "CustomAssemblyLoader\\CustomAssemblyLoadContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:50:22.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Blog\\Index.cshtml",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T08:42:46.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Repository\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IBlogRepository.cs",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Repository\\IBlogRepository.cs",
+              "RelativeToolTip": "Repository\\IBlogRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T10:12:48.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dot Net Interview Preparation\\AI Blog Generator\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T08:42:20.827Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿@* ============================================================================
+   File: _Layout.cshtml
+   Author: Utkarsh Tripathi
+   Created On: 16-Aug-2025
+   Description: Main layout file for AI Blog Generator. Includes Bootstrap, jQuery,
+                Font Awesome, and custom CSS. Provides container for rendering views.
+   ============================================================================ *@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AI_Blog_Generator</title>
+
+    <!-- Import map (currently empty, can be used for JS module imports) -->
+    <script type="importmap"></script>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- Custom site styles -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/AI_Blog_Generator.styles.css" asp-append-version="true" />
+
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+    <!-- Main container -->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody() <!-- Render page-specific content here -->
+        </main>
+    </div>
+
+    <!-- jQuery and Bootstrap JS -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Custom site scripts -->
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <!-- Optional section for page-specific scripts -->
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
